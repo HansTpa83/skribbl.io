@@ -1,0 +1,15 @@
+nav {
+  width: 100vw;
+  padding: 2.5vh;
+  display: flex;
+  justify-content: space-around;
+  background-color: antiquewhite;
+}
+
+nav h1 {
+  flex: 1;
+}
+
+h1 {
+  text-align: center;
+}
